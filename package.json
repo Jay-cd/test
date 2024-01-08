@@ -1,0 +1,16 @@
+{
+  "name": "rewards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:test": "cucumber-js --tags @test",
+    "test:test1": "cucumber-js --tags @test1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^9.5.1",
+    "selenium-webdriver": "^4.13.0"
+  }
+}
